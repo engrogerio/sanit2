@@ -1,8 +1,8 @@
 [run]
-source = project_name
+source = sanit2
 
 [report]
 omit =
     */python?.?/*
     */site-packages/nose/*
-    project_name/__main__.py
+    sanit2/__main__.py
